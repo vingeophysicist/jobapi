@@ -1,0 +1,1 @@
+This is a simple job webAPI. Both the job list and job details can be gotten from this API.
